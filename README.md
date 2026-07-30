@@ -1,4 +1,3 @@
-````markdown
 # 🎭 Realistic Human Face Generation using GAN
 
 A deep learning project that generates realistic human face images using a **Generative Adversarial Network (GAN)**. The model is trained on the **CelebA** dataset and learns to create synthetic human faces from random noise through adversarial training between a Generator and a Discriminator.
